@@ -137,7 +137,7 @@ ul li a {
 .content .cn {
     width: 160px;
     height: 40px;
-    background: #71c9f2;
+    background: #cc647a;
     border: none;
     margin-bottom: 10px;
     margin-left: 20px;
@@ -149,7 +149,7 @@ ul li a {
 }
 
 .content .cn a {
-    text-decoration: none;
+    text-decoration: underline;
     color: #000;
     transition: .3s ease;
 }

@@ -1,42 +1,18 @@
-# Project ID - EC108A
+# Academy Of Technology🏣
+Welcome to the Academy Of Technology, where academic excellence is found along with a beautiful college life.🌳
+Our beautiful campus mixes both natural beauty and modernity, making it an exceptional place for nurturing learning and development. It is here that one finds accomplished lecturers who are also passionate mentors in their own rights. They take our students through a worldly experience in which they should be allowed to question concepts so as to grow intellectually On the other hand, our campus is always very vibrant outside lecture rooms countless student organizations, clubs and sports teams enabling you create platforms for your interests as well as networks that can last after graduation wherever we go.
 
-# Hacking Guide for Campus Tour 😎
+## Code Modification
+We are Power Puffs. We have modified the sample template given by DevWrap.
+The Modifications are-
+1.  We added Academia and Resources in the navigation part of the page
+2.  The 'Join Us' part is changed by using a different color from sample color and by underlining the woed.
 
-## .Campus Tour 🤞
-
-It is a E-commerce made with HTML CSS 😊
-
-
-## How to setup it on your device ?? 🤔
-
-### 🤞 Step 1
-
-Click on Fork and rename it as
-
-#### TeamName_ProjectID
-### 🤞 Step 2 
-Copy the https link from Code Section
-
-#### Open Command Prompt and type
-
-```http
-  cd desktop
-  git clone <https link>
-```
-Now the project is on your desktop now open it with your code editor
-now you are got to go for hacking !!
-
-
-## 😒 What You are  able to change? 
-1. Given Colors
-2. Logo
-3. Landing page Image
-4. Landing Text Design
-5. Make it a single page on scroll or multipage as you wish
+## Contributors 
+1.  Madhuri Nandi
+2.  Jyotirupa Saha
+3.  Rajashree Ray
+4.  Rittika Chakraborty
 
 
 
-
-## 👌 Ask your doubt on Discord
-
-[Click Here](https://discord.com/invite/8qJBt5pby5)  👈👈
