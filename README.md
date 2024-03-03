@@ -11,7 +11,7 @@ The Modifications are-
 ## Contributors 
 1.  Madhuri Nandi
 2.  Jyotirupa Saha
-3.  Rajashree Dey
+3.  Rajashree Ray
 4.  Rittika Chakraborty
 
 
