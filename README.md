@@ -6,23 +6,23 @@ Welcome to the AoT Campus Tour Website– your gateway to exploring the unique a
 
 ## Added Features
 
-### 1. Home Page
+### 1. Home Page:
 . Dynamic homepage showcasing important announcements, events, and news.
 . Quick links for easy navigation to key sections of the website.
 
-### 2. About Page
+### 2. About Page:
 . Here you will be able to know about AOT college.
 
-### 3. Academia Page
+### 3. Academia Page:
 . This page shows the courses that are provided by AOT college.
 
-### 4. CampusTour Page 
+### 4. CampusTour Page:
 . The details are provided when the visitor can get a guided tour of the college.
 
-### 5. Contacts Page
+### 5. Contacts Page:
 . For further details the prospective visitor can connect through mail or over phone.
 
-### 6. Join Page
+### 6. Join Page:
 . The AOT community can also be joined by using the ### JOIN THIS button. 
 
 ## Feedback
