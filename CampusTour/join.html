@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Join Us - College Name</title>
+    <style>
+        body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.join-info, .join-form {
+    flex: 1;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.join-form {
+    background-color: #f9f9f9;
+}
+
+.join-form form {
+    display: flex;
+    flex-direction: column;
+}
+
+.join-form label {
+    margin-bottom: 5px;
+}
+
+.join-form input,
+.join-form textarea {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.join-form button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Join Our College Community</h1>
+    </header>
+    <div class="container">
+        <div class="join-info">
+            <h2>Why Join Us?</h2>
+            <p>At College Name, we provide:</p>
+            <ul>
+                <li>Quality education with experienced faculty</li>
+                <li>State-of-the-art facilities and resources</li>
+                <li>Diverse and vibrant campus life</li>
+                <li>Internship and career opportunities</li>
+                <!-- Add more points as needed -->
+            </ul>
+        </div>
+        <div class="join-form">
+            <h2>Get Started!</h2>
+            <form action="#" method="post">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="phone">Phone:</label>
+                <input type="tel" id="phone" name="phone" required>
+
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" rows="4"></textarea>
+
+                <button type="submit">Join Us</button>
+            </form>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 College Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
