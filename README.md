@@ -1,18 +1,34 @@
-# Academy Of Technology🏣
-Welcome to the Academy Of Technology, where academic excellence is found along with a beautiful college life.🌳
-Our beautiful campus mixes both natural beauty and modernity, making it an exceptional place for nurturing learning and development. It is here that one finds accomplished lecturers who are also passionate mentors in their own rights. They take our students through a worldly experience in which they should be allowed to question concepts so as to grow intellectually On the other hand, our campus is always very vibrant outside lecture rooms countless student organizations, clubs and sports teams enabling you create platforms for your interests as well as networks that can last after graduation wherever we go.
+# AoT Campus Tour Readme
 
-## Code Modification
-We are Power Puffs. We have modified the sample template given by DevWrap.
-The Modifications are-
-1.  We added Academia and Resources in the navigation part of the page
-2.  The 'Join Us' part is changed by using a different color from sample color and by underlining the woed.
+## Overview
 
-## Contributors 
-1.  Madhuri Nandi
-2.  Jyotirupa Saha
-3.  Rajashree Ray
-4.  Rittika Chakraborty
+Welcome to the AoT Campus Tour Website– your gateway to exploring the unique and dynamic campus of the Academy of Technology (AoT)! This application is designed to enrich your campus visit, providing comprehensive insights into key locations, events, and facilities. Whether you're a prospective student, parent, or visitor, the AoT Campus Tour App is your essential companion for an immersive exploration of our campus.
+
+## Features
+
+- *Interactive Map:* Effortlessly navigate the AoT campus with a user-friendly map, highlighting significant buildings, landmarks, and facilities.
+
+- *Location Details:* Access in-depth information about each location, including its purpose, history, and any ongoing events or activities.
+
+- *Tailored Tours:* Personalize your visit by selecting from a variety of pre-designed tours based on interests, academic programs, or specific departments.
+
+- *Event Calendar:* Stay informed about campus events, tours, and information sessions to maximize your visit.
+
+- *Augmented Reality (AR):* Immerse yourself in an enhanced experience with AR features, offering additional insights and interactive elements.
 
 
 
+## Feedback
+
+We highly value your feedback! If you encounter any issues, have suggestions, or wish to share your experience, please contact our support team at [support@aot.edu.in].
+
+## Contributors
+
+- Rajashree Ray
+- Jyotirupa Saha
+- Rittika Chakraborty
+- Madhuri Nandi
+
+
+
+Thank you for choosing the AoT Campus Tour App! We trust you'll have a delightful and informative experience discovering the vibrant landscape of our academy.
