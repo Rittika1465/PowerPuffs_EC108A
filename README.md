@@ -23,7 +23,8 @@ Welcome to the AoT Campus Tour Website– your gateway to exploring the unique a
 . For further details the prospective visitor can connect through mail or over phone.
 
 ### 6. Join Page:
-. The AOT community can also be joined by using the ### JOIN THIS button. 
+. The AOT community can also be joined by using the 
+### JOIN THIS button. 
 
 ## Feedback
 
