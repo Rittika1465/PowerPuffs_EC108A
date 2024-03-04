@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the AoT Campus Tour App – your gateway to exploring the unique and dynamic campus of the Academy of Technology (AoT)! This application is designed to enrich your campus visit, providing comprehensive insights into key locations, events, and facilities. Whether you're a prospective student, parent, or visitor, the AoT Campus Tour App is your essential companion for an immersive exploration of our campus.
+Welcome to the AoT Campus Tour Website– your gateway to exploring the unique and dynamic campus of the Academy of Technology (AoT)! This application is designed to enrich your campus visit, providing comprehensive insights into key locations, events, and facilities. Whether you're a prospective student, parent, or visitor, the AoT Campus Tour App is your essential companion for an immersive exploration of our campus.
 
 ## Features
 
