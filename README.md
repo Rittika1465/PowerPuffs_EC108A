@@ -8,6 +8,7 @@ Welcome to the AoT Campus Tour Website– your gateway to exploring the unique a
 
 ### 1. Home Page:
 . Dynamic homepage showcasing important announcements, events, and news.
+
 . Quick links for easy navigation to key sections of the website.
 
 ### 2. About Page:
