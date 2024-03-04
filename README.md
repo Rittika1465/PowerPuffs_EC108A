@@ -31,4 +31,4 @@ We highly value your feedback! If you encounter any issues, have suggestions, or
 
 
 
-Thank you for choosing the AoT Campus Tour App! We trust you'll have a delightful and informative experience discovering the vibrant landscape of our academy.
+Thank you for choosing the AoT Campus Tour Website! We trust you'll have a delightful and informative experience discovering the vibrant landscape of our academy.
